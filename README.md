@@ -15,7 +15,7 @@ https://www.kaggle.com/code/vbsmarcel/an-lise-de-cr-dito
 #
 <br>
 <div div style="display: inline_block">
-  <img align="center" alt="Marcel-AWS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/> &nbsp &nbsp &nbsp
-  <img align="center" alt="Marcel-Jupyter" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/> &nbsp &nbsp &nbsp
-  <img align="center" alt="Marcel-Kaggle" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
+  <img align="center" alt="Marcel-AWS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/> &nbsp &nbsp &nbsp
+  <img align="center" alt="Marcel-Jupyter" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/> &nbsp &nbsp &nbsp
+  <img align="center" alt="Marcel-Kaggle" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
 </div>
