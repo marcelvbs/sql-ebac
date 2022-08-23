@@ -9,6 +9,7 @@ https://github.com/andre-marcos-perez/ebac-course-utils/tree/main/dataset
 
 #
 *As consultas SQL foram feitas no **AWS ATHENA** e o armazenamento no **S3 BUCKET** e a Análise está escrita no **JUPYTER NOTEBOOK** e também compartilhada no Kaggle no link abaixo:*
+https://www.kaggle.com/code/vbsmarcel/an-lise-de-cr-dito
 
 [LINK DO KAGGLE]
 <div div style="display: inline_block">
