@@ -12,7 +12,8 @@ https://github.com/andre-marcos-perez/ebac-course-utils/tree/main/dataset
 
 https://www.kaggle.com/code/vbsmarcel/an-lise-de-cr-dito
 
-[LINK DO KAGGLE]
+#
+<br>
 <div div style="display: inline_block">
   <img align="center" alt="Marcel-AWS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/> &nbsp &nbsp &nbsp
   <img align="center" alt="Marcel-Jupyter" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/> &nbsp &nbsp &nbsp
